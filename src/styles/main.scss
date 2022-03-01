@@ -1,0 +1,187 @@
+$colors: orange;
+
+.brandOnNav {
+  text-decoration: none;
+  color: black;
+}
+
+.brandOnNav:hover {
+  color: #ffc107;
+}
+
+.d-flex {
+  justify-content: center;
+  align-items: center;
+}
+
+.p-2 {
+  color: black;
+  text-decoration: none;
+}
+
+.p-2:hover {
+  color: #ffc107;
+}
+
+.hero-area {
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-pack: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  background-image: url('https://i.imgur.com/Nb9uPsx.jpg?2');
+  height: 400px;
+  margin: auto;
+}
+
+.process-image {
+  width: 900px;
+}
+
+.display-1 {
+  margin: 150px;
+  color: white;
+}
+
+.display-4 {
+  font-size: 20px;
+}
+
+.display-6 {
+  font-size: 25px;
+}
+
+.input-group {
+  width: 562px;
+  margin: auto;
+}
+
+.index-search {
+  width: 600px;
+  margin: auto;
+}
+
+.home-text {
+  width: 1000px;
+  margin: auto;
+}
+
+.link {
+  color: #ffc107;
+  font-weight: 600;
+}
+
+.button {
+  text-decoration: none;
+  color: black;
+}
+
+.bottom-blank {
+  margin: 100px;
+}
+
+.card {
+  width: 18rem;
+}
+
+.card-body {
+  justify-content: center;
+  align-content: center;
+  text-decoration: none;
+}
+
+.card-title {
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+}
+
+h5 {
+  font-size: 17px;
+  color: black;
+  text-decoration: none;
+}
+
+.index {
+  margin: 0 40px 40px 40px;
+}
+
+.card {
+margin: 10px;
+}
+
+.col {
+  margin-top: 30px;
+}
+
+.brandName {
+  font-size: 30px;
+}
+
+.display-5 {
+  font-size: 20px;
+}
+
+.seeAll, .UKBrands {
+  color: #363636;
+}
+
+.registerArea {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  width:650px;
+  margin:20px auto;
+}
+
+.registerFormHeader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+  font-size: 23px;
+}
+
+.registerFormArea {
+  display: flex;
+  width:400px;
+  margin: auto;
+}
+
+.form-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 17px;
+}
+
+// .registerFormBody {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   font-size: 17px;
+//   box-sizing: border-box;
+//   width: 100%;
+//   height: 34px;
+//   padding-left: 10px;
+//   padding-right: 10px;
+// }
+
+.search-dropdown {
+  margin: 0 0 20px 0;
+}
+
+.image-show {
+  height: 200px;
+  width: 200px;
+}
+
+.login, .register, .home {
+  color: #ffc107;
+  font-weight: 600;
+}
+
+.textarea {
+  width: 500px;
+}
